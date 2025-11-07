@@ -56,11 +56,7 @@ Automatically converts GitHub Action references into clickable links across GitH
 
 **Example - Try this after installing:**
 
-Navigate to any GitHub file and paste this workflow:
-
 ```yaml
-name: Example Workflow
-on: [push]
 jobs:
   test:
     runs-on: ubuntu-latest
