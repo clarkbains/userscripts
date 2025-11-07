@@ -38,13 +38,18 @@ Chrome requires enabling **one** of the following options:
 4. Paste into Tampermonkey editor
 5. Save (Ctrl+S or Cmd+S)
 
+### Installing a Script
+Navigate to TamperMonkey Settins (by clicking on the extension and selecting dashboard, followed by utilities at the top)
+<img width="1672" height="1037" alt="image" src="https://github.com/user-attachments/assets/190e6fb4-3a64-40e6-9295-e48b668a1db9" />
+Then paste in the Raw Script URL for the one you want and select import.
+
 ---
 
 ## Available Userscripts
 
 ### GitHub Action Reference Linker
 
-**[Quick Install](https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.js)** | **[Raw Script](https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.js)**
+**[Raw Script](https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.js)**
 
 Automatically converts GitHub Action references into clickable links across GitHub.
 
