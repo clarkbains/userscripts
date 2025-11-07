@@ -7,8 +7,8 @@
 // @match        https://github.com/*
 // @match        https://gist.github.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
-// @updateURL    https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.js
-// @downloadURL  https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.js
+// @updateURL    https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.user.js
+// @downloadURL  https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
