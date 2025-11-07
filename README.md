@@ -25,9 +25,7 @@ Chrome requires enabling **one** of the following options:
 > **Why?** Google requires this two-step authorization to ensure users make informed decisions when running userscript extensions. See [Tampermonkey FAQ Q209](https://www.tampermonkey.net/faq.php#Q209) for details.
 
 ### Installing a Script
-Navigate to TamperMonkey Settins (by clicking on the extension and selecting dashboard, followed by utilities at the top)
-<img width="1672" height="1037" alt="image" src="https://github.com/user-attachments/assets/190e6fb4-3a64-40e6-9295-e48b668a1db9" />
-Then paste in the Raw Script URL for the one you want and select import.
+Click on the "Raw Script" link below. You should be redirected to an installation page
 
 ---
 
