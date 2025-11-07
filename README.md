@@ -35,7 +35,7 @@ Then paste in the Raw Script URL for the one you want and select import.
 
 ### GitHub Action Reference Linker
 
-**[Raw Script](https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.js)**
+**[Raw Script](https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.user.js)**
 
 Automatically converts GitHub Action references into clickable links across GitHub.
 
