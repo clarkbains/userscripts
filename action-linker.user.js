@@ -1,11 +1,15 @@
 // ==UserScript==
 // @name         GitHub Repository Reference Linker
 // @namespace    http://tampermonkey.net/
-// @version      2025-11-07.9
+// @version      2025-12-23.1
 // @description  Converts text like OrgName/repo/path@branch to clickable GitHub links (handles fragmented text and textareas)
 // @author       Clark Bains
 // @match        https://github.com/*
 // @match        https://gist.github.com/*
+// @exclude      *://github.com/*/edit/*
+// @exclude      *://gist.github.com/*/edit/*
+// @exclude      *://github.com/*?*edit*
+// @exclude      *://gist.github.com/*?*edit*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @updateURL    https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.user.js
 // @downloadURL  https://raw.githubusercontent.com/clarkbains/userscripts/master/action-linker.user.js
